@@ -1,2 +1,2 @@
-# sqlintersection.github.io
-Organization Web Site
+# angularmix.github.io
+Organzation Web Site

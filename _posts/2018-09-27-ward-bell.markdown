@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Ward Bell"
+date:   2018-09-27 11:48:33 +0400
+expertise: VP of Technology, IdeaBlade
+---
+
+Ward Bell is V.P. of Technology at IdeaBlade, makers of BreezeJS, a library for data management in JavaScript client applications. BreezeJS
+
+Here are links to his presentation material:
+
+- [RxJS in 20 Minutes]( https://tinyurl.com/yaubhfx8)
+- [Ngrx-Data](https://tinyurl.com/y8mlxgow)

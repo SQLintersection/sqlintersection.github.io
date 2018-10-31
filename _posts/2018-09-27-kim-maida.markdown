@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Kim Maida"
+date:   2018-09-27 11:48:33 +0400
+expertise: MANAGER OF TECHNICAL CONTENT & COMMUNITY
+---
+
+I'm a seasoned Angular developer and consultant, now working as the Manager of Technical Content & Community for Auth0, writing in-depth technical tutorials on Angular and a variety of other technologies while leading the team of technical writer engineers producing content for Auth0's technical blog and website. I'm passionate about security, authentication, the Angular community, and I love learning and sharing with other developers. I also enjoy running Angular authentication workshops and I mentor ngGirls workshops whenever possible.
+
+Here are links to her presentation material:
+
+- [ADDING AUTHENTICATION TO ANGULAR APPS](https://devintxcontent.blob.core.windows.net/showcontent/AngularMix%20Presentations%202018/KimMaida-AngularMix-addingauth.pdf)
+- [COMPONENTS: LIFE BEYOND INIT AND DESTROY](https://devintxcontent.blob.core.windows.net/showcontent/AngularMix%20Presentations%202018/KimMaida-AngularMix-complife.pdf)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sam Julien"
+date:   2018-09-27 11:48:33 +0400
+expertise: WEB DEVELOPER
+---
+
+Sam is an Angular Upgrade Guy. Sam has been working with Angular every day since 2014, and he shares his love of teaching Angular as the co-organizer of the Portland, Oregon Angular meetup
+
+Here are links to his presentation materials:
+
+- [AngularBlast: Rapid Fire ngUpgrade](https://devintxcontent.blob.core.windows.net/showcontent/AngularMix%20Presentations%202018/AngularBlast!%20Slides.pdf)
+- [Plan-It of the Apps](https://devintxcontent.blob.core.windows.net/showcontent/AngularMix%20Presentations%202018/Plan-It%20of%20the%20Apps!%20Slides%20(AM).pdf)
