@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[AngularMix]() is proud to provide the following speaker material from its 2018 conference held in Orlando, Fl, Oct 10 -12th, 2018
+[SQLintersection]() is proud to provide the following speaker material from its 2018 conference held in Las Vegas, NV, Dec 3 - 6th, 2018
