@@ -9,4 +9,6 @@ Kimberly’s an author, consultant, and top-rated speaker having spoken at PASS,
 
 Here are links to her presentation material:
 
-
+- [SQL Server Indexing: Strategies for Performance](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/SQLintersection_Tripp_SQLServerIndexing_StrategiesForPerformance%20(2).pdf)
+- [SQL Server Indexing: Tools and Tuning Walkthrough](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/SQLintersection_Tripp_IndexWalkthrough%20(1).pdf)
+- [Demos and Link](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/BothIndexingSessions-Demos%26Links.zip)
