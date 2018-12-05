@@ -9,5 +9,6 @@ Paul is a Microsoft SQL Server MVP and a Microsoft Regional Director. He spent 9
 Here are links to his presentation material:
 
 - [Mythbusters](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Randal-SQL-DBAMythbusters%20(3).pdf)
-
+- [Introduction to Performance Troubleshooting Using Wait Statistics](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Randal-SQL-Waits%20(2).pdf)
+- [Introduction to Performance Troubleshooting Using Wait Statistics - Scripts](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/2018-Fall-Randal-SQL-Waits.zip)
 
