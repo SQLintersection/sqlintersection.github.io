@@ -12,4 +12,5 @@ Here are links to his presentation material:
 - [Gems to Help You Troubleshoot Query Performance](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Gems-to-Help-You-Troubleshoot-Query-Performance.pdf)
 - [Make Your Tier-1 SQL Server Roar: Practical Performance Guidance](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Practical-guidance-to-make-your-tier-1-SQL-Server-roar.pdf)
 - [SQL Server Upgrades Done the Right Way](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/SQL-Server-Upgrades-Done-the-Right-Way.pdf)
+
 Demos cane be located at the following location:  https://github.com/Microsoft/tigertoolbox/tree/master/Sessions/SQLIntersection-2018
