@@ -13,3 +13,4 @@ Here are links to his presentation material:
 - [Azure Data Services](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/AzureDataServices_TimRadney_Vegas2018.pdf)
 - [Azure SQL Database for the Production DBA](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/AzureSQLDBfortheProductionDBA_TimRadney_Vegas2018.pdf)
 - [Performance Tuning Azure SQL Database](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/TuningAzureSQLDB_TimRadney-Vegas2019.pdf)
+- [Azure Managed Instances](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Azure%20SQL%20Managed%20Instance_TimRadney_Vegas2018.pdf)
