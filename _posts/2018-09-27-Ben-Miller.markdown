@@ -11,4 +11,5 @@ Here are links to his presentation material:
 
 - [Tips and Tricks for the PowerShell DBA Part 1](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/01_Session_BenMiller_PowerShellTipsTricks_2018.pdf)
 - [Tips and Tricks for the PowerShell DBA Part 2](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/02_Session_BenMiller_PowerShellTipsTricks_2018.pdf)
-- [Tips and Tricks for the PowerShell DBA Demos](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/demos/)
+- [Temporal Tables In-Depth](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/03_Temporal_Tables_In_Depth_BenMiller_IntersectionVegas_2018.pdf)
+- [Temporal Tables In-Depth - Scripts](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/01_TemporalTables.sql)
