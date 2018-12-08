@@ -1,7 +1,7 @@
 layout: post
 title:  "Stacia Varga"
 date:   2018-09-27 11:48:33 +0400
-expertise: Principal Consultant | Data Inspirations
+expertise: Principal Consultant, Data Inspirations
 ---
 
 Stacia is a Microsoft Data Platform MVP and SSAS Maestro with a Bachelor’s Degree in Social Sciences. A consultant, educator, author, and principal of Data Inspirations, her career spans more than 30 years, with a focus on improving business practices through technology. Since 2000, Stacia has provided consulting and education services for Microsoft's Business Intelligence technologies. She has also authored and co-authored several books covering the Microsoft BI stack.
