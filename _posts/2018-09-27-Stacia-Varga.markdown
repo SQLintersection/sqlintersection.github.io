@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Stacia Varga"
 date:   2018-09-27 11:48:33 +0400
