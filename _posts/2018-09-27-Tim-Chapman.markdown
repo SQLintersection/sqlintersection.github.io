@@ -9,5 +9,5 @@ Tim Chapman is a Microsoft Certified Master (MCM) and works as a Principal Premi
 Here are links to his presentation material:
 
 - [SQL Server Indexing: Conquering Columnstore Indexes](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/ConqueringColumnstore2016.pdf)
-- [SQL Server Indexing: Conquering Columnstore Indexes - Scripts/Demos](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/2016ColumnStore//)
-- [Writing Faster Queries](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/FasterQueries//)
+- [SQL Server Indexing: Conquering Columnstore Indexes - Scripts/Demos](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/2016ColumnStore/)
+- [Writing Faster Queries](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/FasterQueries/)
