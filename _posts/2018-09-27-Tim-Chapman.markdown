@@ -11,4 +11,4 @@ Here are links to his presentation material:
 - [SQL Server Indexing: Conquering Columnstore Indexes](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/ConqueringColumnstore2016.pdf)
 - [SQL Server Indexing: Conquering Columnstore Indexes - Scripts/Demos](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/ConqueringColumnstore2016%20(4).zip)
 - [Writing Faster Queries](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/FasterQueries%20(4).zip)
-- Troubleshoot Like a Microsoft Engineer](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/TimChapmanSQLTroubleshootingPostCon%20(2).zip)
+- [Troubleshoot Like a Microsoft Engineer](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/TimChapmanSQLTroubleshootingPostCon%20(2).zip)
