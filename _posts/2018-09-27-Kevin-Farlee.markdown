@@ -10,5 +10,4 @@ Kevin Farlee has over 30 years in the industry, in both database as well as stor
 
 Here are links to his presentation material:
 
-- [Advanced Graph Processing with SQL Graph](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/SQL%20Graph_SQLintersection_Fall2018.pptx)
-- [Introducing SQL DB Hyperscale: Limitless Scaling without VLDB Headaches!](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Hyperscale-Intersection.pptx)
+
