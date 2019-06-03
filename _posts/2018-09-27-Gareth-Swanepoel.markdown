@@ -9,4 +9,3 @@ Gareth is a sysadmin-turned-SQL Server DBA. He has been working in the IT indust
 
 Here are links to his presentation material:
 
-- [Hadoop and Big Data Essentials](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Hadoop%20%26%20HDInsight%20Essentials.pptx.crdownload)
