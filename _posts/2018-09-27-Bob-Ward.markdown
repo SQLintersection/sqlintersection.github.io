@@ -9,4 +9,4 @@ Bob Ward is a Principal Architect for the Microsoft SQL Server Data Services Gro
 
 Here are links to his presentation material:
 
-- [Inside SQL Server Containers](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Inside%20SQL%20Server%20Containers.pptx)
+
