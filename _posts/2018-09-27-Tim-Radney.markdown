@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tim Radney"
+title:  "Tim Radney | Principal Consultant, SQLskills"
 date:   2018-09-27 11:48:33 +0400
-expertise: Principal Consultant, SQLskills
+
 ---
 
 Tim is a Principal Consultant with SQLskills.com. He has worked with SQL server for the past 15 years, in a variety of roles including DBA, Lead DBA, and multi-department manager, which have given him extensive experience planning and implementing large-scale environment changes and upgrades. Tim is a SQL Server MVP and has a whole collection of Microsoft and other industry certifications. His experience includes HA/DR, virtualization, SSIS, SSRS, and performance tuning, among everything else SQL Server-related. 
