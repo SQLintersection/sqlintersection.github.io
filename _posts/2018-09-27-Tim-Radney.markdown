@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Tim Radney | Principal Consultant, SQLskills"
+title:  "Tim Radney"
 date:   2018-09-27 11:48:33 +0400
+expertise: "Principal Consultant, SQLskills"
 
 ---
 
