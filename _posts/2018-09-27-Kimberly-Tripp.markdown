@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Kimberly Tripp | President / Founder of SQLskills"
+title:  "Kimberly Tripp"
 date:   2018-09-27 11:48:33 +0400
+expertise: "President / Founder of SQLskills"
 
 ---
 
