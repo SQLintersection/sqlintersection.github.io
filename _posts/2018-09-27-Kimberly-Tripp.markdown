@@ -10,3 +10,6 @@ Kimberly’s an author, consultant, and top-rated speaker having spoken at PASS,
 
 Here are links to her presentation material:
 
+- [TROUBLESHOOTING QUERY PLANS: PART1-ROOT CAUSE ANALYSIS AND CACHING PROBLEMS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/SQLintersection_Tripp_QueryPlansPart1.pdf)
+- [TROUBLESHOOTING QUERY PLANS: PART2-STATISTICS PROBLEMS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/SQLintersection_Tripp_QueryPlansPart2.pdf)
+- [TROUBLESHOOTING QUERY PLANS: PART 1 and 2 - Resources](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/SQLintersection_QueryPlanPart1%262_Resources.zip)
