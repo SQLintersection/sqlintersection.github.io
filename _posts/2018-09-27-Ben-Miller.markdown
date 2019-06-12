@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Ben Miller | SQL Server Certified Master"
+title:  "Ben Miller"
 date:   2018-09-27 11:48:33 +0400
+expertise: "SQL Server Certified Master"
 
 ---
 
