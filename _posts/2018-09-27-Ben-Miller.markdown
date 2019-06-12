@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ben Miller | SQL Server Certified Master, DBAduck.com"
+title:  "Ben Miller | SQL Server Certified Master"
 date:   2018-09-27 11:48:33 +0400
 
 ---
