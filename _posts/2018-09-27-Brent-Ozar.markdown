@@ -2,7 +2,7 @@
 layout: post
 title:  "Brent Ozar"
 date:   2018-09-27 11:48:33 +0400
-expertise: Founder/Owner of Brent Ozar Unlimited
+expertise: "Founder/Owner of Brent Ozar Unlimited"
 
 ---
 
