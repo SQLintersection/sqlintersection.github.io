@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Glenn Berry"
+title:  "Glenn Berry | Principal Consultant, SQLskills"
 date:   2018-09-27 11:48:33 +0400
-expertise: Principal Consultant, SQLskills
+
 ---
 
 Glenn Berry is a Principal Consultant with SQLskills. He has worked as a SQL Server professional for many years in a variety of roles, most recently as Database Architect for Avalara in Parker, CO.
