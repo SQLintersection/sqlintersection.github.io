@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Gareth Swanepoel | Dedicated Support Engineer, Microsoft"
+title:  "Gareth Swanepoel"
 date:   2018-09-27 11:48:33 +0400
+expertise: "Dedicated Support Engineer, Microsoft"
 
 
 ---
