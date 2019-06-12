@@ -2,6 +2,7 @@
 layout: post
 title:  "Ben Miller"
 date:   2018-09-27 11:48:33 +0400
+
 expertise: SQL Server Certified Master, DBAduck.com
 ---
 
