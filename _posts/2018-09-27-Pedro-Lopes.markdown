@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Pedro Lopes | Senior Program Manager, Microsoft"
+title:  "Pedro Lopes"
 date:   2018-09-27 11:48:33 +0400
+expertise: "Senior Program Manager, Microsoft"
 
 ---
 
