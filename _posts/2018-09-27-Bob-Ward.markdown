@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bob Ward | Principal Architect for the Microsoft SQL Server Data Services Group, Microsoft"
+title:  "Bob Ward | Principal Architect for the Microsoft SQL Server Data Services Group"
 date:   2018-09-27 11:48:33 +0400
 
 ---
