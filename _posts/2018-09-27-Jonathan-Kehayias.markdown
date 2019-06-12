@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Jonathan Kehayias | Principal Consultant, SQLskills"
+title:  "Jonathan Kehayias"
 date:   2018-09-27 11:48:33 +0400
+expertise: "Principal Consultant, SQLskills"
 
 ---
 
