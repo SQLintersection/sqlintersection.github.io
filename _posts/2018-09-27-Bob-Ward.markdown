@@ -10,4 +10,9 @@ Bob Ward is a Principal Architect for the Microsoft SQL Server Data Services Gro
 
 Here are links to his presentation material:
 
+Here are links to his presentation materials:
 
+- [GENERAL SESSION: THE MECHANICS OF SQL SERVER](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/The%20Mechanics%20of%20SQL%20Server.pptx)
+- [INSIDE SQL SERVER CONTAINERS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Inside%20SQL%20Server%20Containers.pptx)
+- [KEYNOTE: THE SQL SERVER 2019 DATA PLATFORM](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/SQL%20Server%202019%20Modern%20Data%20Platform%20SQL%20Intersection%20June%202019.pptx)
+- [POLYBASE++ IN SQL SERVER 2019](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Polybase%2B%2B%20in%20SQL%20Server%202019.pptx)
