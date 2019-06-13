@@ -10,3 +10,5 @@ Ben is a SQL Server Certified Master, MVP, author, speaker and mentor. He is a p
 
 Here are links to his presentation material:
 
+- [COMPLETE DATABASE MIGRATION WITH POWERSHELL](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Complete_Database_Migration_with_PowerShell_BenMiller.zip)
+- [DBAS WORKING SMARTER NOT HARDER WITH POWERSHELL](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/DBAs_Working_Smarter_NOT_Harder_with_PowerShell_BenMiller.zip)
