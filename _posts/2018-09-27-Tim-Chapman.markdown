@@ -10,3 +10,6 @@ Tim Chapman is a Microsoft Certified Master (MCM) and works as a Principal Premi
 
 Here are links to his presentation material:
 
+- [COMMON TASKS FOR THE CLOUD DBA](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/CommonCloudDBATasks.zip)
+- [CONQUERING CONCURRENCY](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/ConqueringConcurrency%20(1).zip)
+- [THE CLOUDY FUTURE OF THE DBA](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/TheCloudyFutureOfTheDBA.pdf)
