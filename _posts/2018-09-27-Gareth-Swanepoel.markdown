@@ -11,3 +11,6 @@ Gareth is a sysadmin-turned-SQL Server DBA. He has been working in the IT indust
 
 Here are links to his presentation material:
 
+- [BUILDING AN AZURE DATA SCIENCE ENVIRONMENT](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Building%20a%20Data%20Science%20Env%20-%20SQLintersection%20Spring%202019.pptx)
+- [COLUMNSTORE INDEXES: A JOURNEY INTO DATA WAREHOUSING PERFORMANCE](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/ColumnStore%20Indexes%20-%20SQLint%20Spring%202019.pptx)
+- [LESSONS FROM THE FIELD: MIGRATING TO AN AZURE MODERN DATA WAREHOUSE](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/SQLint%20Spring%202019%20-%20Migrating%20to%20an%20Azure%20Modern%20Data%20Warehouse.pptx)
